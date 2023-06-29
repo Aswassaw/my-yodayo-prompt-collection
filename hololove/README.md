@@ -12,4 +12,4 @@ hair over one eyes,
 <lora:hairOverEyesLoraStyle_v1:1.2>
 ```
 
-<img src="assets/1.jpg" alt="Gambar Satu" width="400px" />
+<img src="assets/1.jpg" alt="" width="200px" />
