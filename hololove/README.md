@@ -12,4 +12,4 @@ hair over one eyes,
 <lora:hairOverEyesLoraStyle_v1:1.2>
 ```
 
-<img src="assets/1.jpg" alt="" width="200px" />
+<img src="https://s3projectportofolio.s3.ap-southeast-1.amazonaws.com/yodayo/hololove-1.jpg" alt="" width="200px" />

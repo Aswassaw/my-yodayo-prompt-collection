@@ -11,4 +11,4 @@ background public park,
 face close-up to the camera
 ```
 
-<img src="assets/1.jpg" alt="" width="200px" />
+<img src="https://s3projectportofolio.s3.ap-southeast-1.amazonaws.com/yodayo/9realistic-1.jpg" alt="" width="200px" />
